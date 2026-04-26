@@ -1,3 +1,10 @@
+<img width="1920" height="1080" alt="Screenshot (558)" src="https://github.com/user-attachments/assets/479e8008-396a-4b90-8ff2-e6a150295b5f" />
+<img width="1920" height="1080" alt="Screenshot (561)" src="https://github.com/user-attachments/assets/fbec0d8d-f40f-4378-9d9e-d3355402bff8" />
+<img width="1920" height="1080" alt="Screenshot (562)" src="https://github.com/user-attachments/assets/fc1adce0-b1e9-4608-a08c-5ccf116b6852" />
+<img width="1280" height="549" alt="Screenshot 2026-04-26 205124" src="https://github.com/user-attachments/assets/ea36fe1c-a19b-446a-bf75-e98cfd12f8d8" />
+<img width="1920" height="1080" alt="Screenshot (563)" src="https://github.com/user-attachments/assets/00b47a46-2b9f-4673-b15d-28c90c6b1eb8" />
+<img width="1920" height="1080" alt="Screenshot (564)" src="https://github.com/user-attachments/assets/3dc13167-85e5-458f-b44f-7019aadadc30" />
+<img width="1920" height="1080" alt="Screenshot (565)" src="https://github.com/user-attachments/assets/04bfde0f-df03-47c7-b06e-b643ffa8a1d4" />
 # 🌟 Stellar Expense Splitter
 
 > **Stellar Journey to Mastery — Orange Belt Submission**
